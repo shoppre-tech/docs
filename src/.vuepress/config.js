@@ -1,10 +1,11 @@
 const { description } = require('../../package')
 
 module.exports = {
+  base: '/docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Shoppre Wikipedia',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,15 +35,27 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Who We Are',
         link: '/guide/',
       },
       {
-        text: 'Config',
+        text: 'What We Do',
         link: '/config/'
       },
       {
-        text: 'VuePress',
+        text: 'Our Workplace',
+        link: 'https://v1.vuepress.vuejs.org'
+      },
+      {
+        text: 'Our Impact',
+        link: 'https://v1.vuepress.vuejs.org'
+      },
+      {
+        text: 'Our Plance',
+        link: 'https://v1.vuepress.vuejs.org'
+      },
+      {
+        text: 'Follow Us',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
