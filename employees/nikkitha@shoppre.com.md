@@ -2,6 +2,10 @@
 
 Template: Employee
 
+### Current
+- Founder & CEO
+
+
 ### 2021
 - 
 
