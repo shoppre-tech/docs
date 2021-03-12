@@ -26,4 +26,34 @@ The constitution is drafted by Constituent Assembly.
 - 1st March 2021 - Nikkitha introduced Aloak as Deputy Board of Director, representing Shoppre Commerce
 - 11th March 2021 - M & Bibhas Goshal finalised Google Docs for RFC, Github for authoring & VuePress for reading
 
+## Structure
+
+- Preamble,[43] with 14 leadership principles
+- Part I – Business Units & Deemed to be Business Units
+- Part II – Employees
+- Part III – Employee Rights
+- Part IV – Directive Principles of Business Units Policy
+- Part IVA – Duties - Roles & Responsiblities
+- Part V – The union
+- Part VI – The Business Segments & Units
+- Part VII – NA
+- Part VIII[52] – Union Offices
+- Part IX[53] – Teams
+- Part IXA[54] – BU HO
+- Part IXB – NA
+- Part X – NA
+- Part XI – Relations between the union and the BU
+- Part XII – Finance, property, contracts and suits
+- Part XIII – Trade and commerce within Shoppre
+- Part XIV – Services under the union and Business Units
+- Part XIVA – NA
+- Part XV – NA Manifest & Five year plan
+- Part XVI – NA
+- Part XVII – Languages
+- Part XVIII – Emergency provisions
+- Part XIX – Miscellaneous
+- Part XX – Amending the constitution
+- Part XXI – Temporary, transitional and special provisions
+- Part XXII – Short title, date of commencement, authoritative text and repeals
+
 
