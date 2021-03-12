@@ -1,8 +1,8 @@
 # Constitution of Shoppre
 
-Structure: https://en.wikipedia.org/wiki/Constitution_of_India
-Author: M
-Template: https://en.wikipedia.org/wiki/Template:Constitution_of_India
+- Structure: https://en.wikipedia.org/wiki/Constitution_of_India
+- Author: M
+- Template: https://en.wikipedia.org/wiki/Template:Constitution_of_India
 
 Constitution of Shoppre is the supreme law book of Shoppre. The document lays down the framework that demarcates fundamental corporate code, structure, procedures, powers, and duties of government institutions and sets out fundamental rights, directive principles, and the duties of employees.
  
