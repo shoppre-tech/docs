@@ -2,11 +2,18 @@
 
 Template: Employee
 
-### Current
+- ID: SH-001
+- Email: nikkitha@shoppre.com
+- LinkedIn: https://in.linkedin.com/in/nikkitha-shanker
+- Mobile: 9148359143
+
+### Y5 - Upcoming Apr 2021-till now
+- Head of Administration 
+
+### Y4 Current
 - Founder & CEO
 
-
-### 2021
+### 
 - 
 
 ### 2020
