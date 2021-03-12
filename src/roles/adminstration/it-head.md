@@ -1,9 +1,10 @@
-# IT Head
+# IT  Head
 
-Current: Varsha J Patil
+Current: Bibhas Goshal
+
 Department: FU7 IT/Cloud
 
-Responsiblity:
+## Responsiblity:
 
 ### General
 - Co ordinating with various employees working for IT Department work
