@@ -28,7 +28,7 @@ The constitution is drafted by Constituent Assembly.
 
 ## Structure
 
-- Preamble,[43] with 14 leadership principles
+- Preamble, with 14 leadership principles
 - Part I – Business Units & Deemed to be Business Units
 - Part II – Employees
 - Part III – Employee Rights
@@ -37,9 +37,9 @@ The constitution is drafted by Constituent Assembly.
 - Part V – The union
 - Part VI – The Business Segments & Units
 - Part VII – NA
-- Part VIII[52] – Union Offices
-- Part IX[53] – Teams
-- Part IXA[54] – BU HO
+- Part VIII – Union Offices
+- Part IX – Teams
+- Part IXA – BU HO
 - Part IXB – NA
 - Part X – NA
 - Part XI – Relations between the union and the BU
