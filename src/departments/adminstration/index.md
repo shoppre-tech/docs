@@ -25,9 +25,9 @@ Advisor: Neethu
 - Primary Software for Ops: 
 - Primary Services: GSuite, Asana, Jira, Metabase, HRMS
 
-### FU10 Talent
+### FU10 Talent & Career Growth
 - Start Date: 1st March 2021
-- Contact Person: Abhi
+- Contact Person: Nikkitha, Sharath, Punith, Aloak & FU Leads
 - Lead: Abhi
 - Primary Sercices(Softwares): Hiring(HRMS), Payroll,  
 - Advisor: Neethu(HR Business Ops), Noble(Product), Manjesh(Tech), Siddu(DevOps), Adarsh Patil(Data)
