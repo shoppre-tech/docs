@@ -91,6 +91,7 @@ module.exports = {
       excludes: ['/about', '/tag/.*']
     }],
       [ 'disqus', {
+          shortname: 'manjeshvthirthahalli',
           api_key: 'A20fovzQTDTVRntkAFuSRpb79uwIU0EN0RQWxE2its5N5LgTGdySn8z665jU3RC5'
       }]
   ]
