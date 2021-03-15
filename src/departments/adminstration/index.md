@@ -26,8 +26,8 @@ Advisor: Neethu
 - Primary Services: GSuite, Asana, Jira, Metabase, HRMS
 
 ### FU10 Talent
-Start Date: 1st March 2021
-Contact Person: Abhi
-Lead: Abhi
-Primary Sercices(Softwares): Hiring(HRMS), Payroll,  
-Advisor: Neethu(HR Business Ops), Noble(Product), Manjesh(Tech), Siddu(DevOps), Adarsh Patil(Data)
+- Start Date: 1st March 2021
+- Contact Person: Abhi
+- Lead: Abhi
+- Primary Sercices(Softwares): Hiring(HRMS), Payroll,  
+- Advisor: Neethu(HR Business Ops), Noble(Product), Manjesh(Tech), Siddu(DevOps), Adarsh Patil(Data)
