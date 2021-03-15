@@ -59,7 +59,7 @@ The constitution is drafted by Constituent Assembly.
 - Part XXII – Short title, date of commencement, authoritative text and repeals
 
 <Disqus
-  identifier='constitution-of-shoppre',
-  title: 'Constitution of Shoppre',
+  identifier='constitution-of-shoppre'
+  title='Constitution of Shoppre'
   url='https://shoppre-tech.github.io/docs/constitution-of-shoppre.html#constituent-assembly'
 />
