@@ -1,5 +1,7 @@
 # Constitution of Shoppre
 
+_Reading Time: {{ $page.readingTime.text }}_
+
 - Structure: https://en.wikipedia.org/wiki/Constitution_of_India
 - Author: M
 - Template: https://en.wikipedia.org/wiki/Template:Constitution_of_India
@@ -58,5 +60,6 @@ The constitution is drafted by Constituent Assembly.
 
 <Disqus
   identifier='constitution-of-shoppre',
+  title: 'Constitution of Shoppre',
   url='https://shoppre-tech.github.io/docs/constitution-of-shoppre.html#constituent-assembly'
 />
