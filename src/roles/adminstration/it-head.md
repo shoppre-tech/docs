@@ -1,6 +1,6 @@
 # IT  Head
 
-Current: Bibhas Goshal
+Current: [Bibhas Goshal](https://shoppre-tech.github.io/docs/employees/bibhas-goshal.html#)
 
 Department: FU7 IT/Cloud
 
