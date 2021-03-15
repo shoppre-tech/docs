@@ -56,4 +56,4 @@ The constitution is drafted by Constituent Assembly.
 - Part XXI – Temporary, transitional and special provisions
 - Part XXII – Short title, date of commencement, authoritative text and repeals
 
-
+<Disqus/>

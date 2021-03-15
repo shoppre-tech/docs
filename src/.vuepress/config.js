@@ -80,6 +80,18 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     'vuepress-plugin-auto-sidebar',
-    'fulltext-search'
+    'vuepress-plugin-right-anchor',
+    'fulltext-search',
+    ['git-log', {
+      additionalArgs: '--no-merge',
+      onlyFirstAndLastCommit: true,
+    }],
+    'vuepress-plugin-element-tabs',
+    ['vuepress-plugin-reading-time', {
+      excludes: ['/about', '/tag/.*']
+    }],
+      [ 'disqus', {
+          api_key: 'A20fovzQTDTVRntkAFuSRpb79uwIU0EN0RQWxE2its5N5LgTGdySn8z665jU3RC5'
+      }]
   ]
 }
