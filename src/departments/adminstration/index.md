@@ -10,11 +10,9 @@ Director: Nikkitha Shanker
 - Primary Ops Software: Fresh Service
 - Primary Services: Hardware & Software Procurement, Maintaince, Office Networking
 
-### FU7 Talent
-Start Date: 1st March 2021
-Contact Person: Abhi
-Lead: Abhi
-Primary Sercices(Softwares): Hiring(HRMS), Payroll,  
+### FU10 - General HR/Hub
+- Sub Departments: Payroll, Events
+- Lead: Vismaya
 Advisor: Neethu
 
 ### FU9 - Digital IT
@@ -25,7 +23,9 @@ Advisor: Neethu
 - Primary Software for Ops: 
 - Primary Services: GSuite, Asana, Jira, Metabase, HRMS
 
-### FU10 - General HR/Hub
-
-- Sub Departments: Payroll, Events
-- Lead: Vismaya
+### FU10 Talent
+Start Date: 1st March 2021
+Contact Person: Abhi
+Lead: Abhi
+Primary Sercices(Softwares): Hiring(HRMS), Payroll,  
+Advisor: Neethu(HR Business Ops), Noble(Product), Manjesh(Tech), Siddu(DevOps), Adarsh Patil(Data)
