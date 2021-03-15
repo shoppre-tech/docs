@@ -1,5 +1,7 @@
 # SU3 - Strategic Unit - Adminstration
 
+[Suggest Edits](https://github.com/shoppre-tech/docs/edit/master/src/departments/adminstration/index.md)
+
 Director: Nikkitha Shanker
 
 ### FU6 Office IT
