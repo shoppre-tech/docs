@@ -56,4 +56,7 @@ The constitution is drafted by Constituent Assembly.
 - Part XXI – Temporary, transitional and special provisions
 - Part XXII – Short title, date of commencement, authoritative text and repeals
 
-<Disqus/>
+<Disqus
+  identifier='constitution-of-shoppre',
+  url='https://shoppre-tech.github.io/docs/constitution-of-shoppre.html#constituent-assembly'
+/>
