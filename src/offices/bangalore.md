@@ -1,5 +1,5 @@
 # Bangalore Office
-
+[Improve this page](https://github.com/shoppre-tech/docs/edit/master/src/offices/bangalore.md)
 
 ### Address
  - #182, 1st Floor, 2nd Cross Rd, 1st Block Koramangala, Bengaluru, Karnataka 560034
@@ -19,9 +19,9 @@
 - Open Space
 - Cafeteria - Inside
 - Cafeteria - Outside
-- Room 1: Commerce
-- Room 2: Parcel
-- Room 3: Courier
+- Room 101: Commerce
+- Room 102: Parcel
+- Room 103: Courier
 - Room 4A: Conference Room
 - Room 4B: Head Office
 - Room 4C: IT Assets Dump
